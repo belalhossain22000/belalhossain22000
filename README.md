@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Belal hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![I am a Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋,  I am Belal Hossain
+#### I am a Front End Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=belalhossain22000&label=Profile%20views&color=0e75b6&style=flat" alt="belalhossain22000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belalhossain22000" alt="belalhossain22000" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/belalhossain918" target="blank"><img src="https://img.shields.io/twitter/follow/belalhossain918?logo=twitter&style=for-the-badge" alt="belalhossain918" /></a> </p>
-
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **next.js**
