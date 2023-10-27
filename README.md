@@ -1,4 +1,4 @@
-![I am a Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front End Developer](https://i.ibb.co/PZ55V1s/image.png)
 # Hi there 👋,  I am Belal Hossain
 ## I am a Front End Developer
 👑 I am Web Developer <br/>
