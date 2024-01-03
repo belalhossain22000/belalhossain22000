@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@shariful10)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sk+Shariful+Islam+✌️;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;" />
 </h1>
 
 <p align="center"> 
@@ -17,22 +17,22 @@
 </p>
 
 <p align="center">
-   <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
+   <a href="https://www.facebook.com/belalhossain22000" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="belal"  />
    </a>
-   <a href="https://shariful-islam.vercel.app" target="blank">
+   <a href="https://shariful-islam.vercel.app/belalhossain22000" target="blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="shariful" />
    </a>
-   <a href="https://www.linkedin.com/in/shariful10" target="_blank">
+   <a href="https://www.linkedin.com/in/belalhossain22000" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
    </a>
-   <a href="https://discord.com/channels/@md.sharifulislam_36103" target="_blank">
+   <a href="https://discord.com/channels/belalhossain22000" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="shariful"/>
    </a>
-   <a href="https://dev.to/shariful10" target="_blank">
+<!--    <a href="https://dev.to/shariful10" target="_blank">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shariful" />
-   </a>
-   <a href="https://twitter.com/shariful_10" target="_blank">
+   </a> -->
+   <a href="https://twitter.com/Belalhossain918" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
 </p>
@@ -45,7 +45,7 @@
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-   📧 &emsp; Reach me anytime: sharifulisl96@gmail.com<br/><br/>
+   📧 &emsp; Reach me anytime: belalhossain22000@gmail.com<br/><br/>
 </p>
 
 <br/>
@@ -84,7 +84,7 @@
 <h1>Top Open Source -</h1>
 
 
-[![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/EvoGym)
+[![Evogym](https://github.com/belalhossain22000/skymart-client_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/skymart-client)
 [![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/SMartYT-eCommerce)
 [![MovieVerse](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Movie-Verse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Movie-Verse)
 [![MeetCast](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=MeetCast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/MeetCast)
