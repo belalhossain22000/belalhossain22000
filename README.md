@@ -1,8 +1,8 @@
-<a href="https://komarev.com/ghpvc/?username=shariful05">
-   <img align="right" src="https://komarev.com/ghpvc/?username=shariful10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=belal05">
+   <img align="right" src="https://komarev.com/ghpvc/?username=belal10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@shariful10)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@belal10)
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;" />
@@ -20,17 +20,17 @@
    <a href="https://www.facebook.com/belalhossain22000" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="belal"  />
    </a>
-   <a href="https://shariful-islam.vercel.app/belalhossain22000" target="blank">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="shariful" />
+   <a href="https://belal-islam.vercel.app/belalhossain22000" target="blank">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="belal" />
    </a>
    <a href="https://www.linkedin.com/in/belalhossain22000" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="belal"/>
    </a>
    <a href="https://discord.com/channels/belalhossain22000" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="shariful"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="belal"/>
    </a>
-<!--    <a href="https://dev.to/shariful10" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shariful" />
+<!--    <a href="https://dev.to/belal10" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="belal" />
    </a> -->
    <a href="https://twitter.com/Belalhossain918" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -85,7 +85,7 @@
 
 [![skymart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=skymart-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/skymart-client)
 [![agency-websie](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=agency-websie&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/agency-websie)
-[![bangla-mart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=bangla-mart-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/shariful10/Soul-Sync](https://github.com/belalhossain22000/bangla-mart-client))
+[![bangla-mart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=bangla-mart-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/belal10/Soul-Sync](https://github.com/belalhossain22000/bangla-mart-client))
 
 <p align="left">
    <a 
