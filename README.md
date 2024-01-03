@@ -1,8 +1,8 @@
-<a href="https://komarev.com/ghpvc/?username=belal05">
-   <img align="right" src="https://komarev.com/ghpvc/?username=belal10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=belalhossain22000">
+   <img align="right" src="https://komarev.com/ghpvc/?username=belalhossain22000&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@belal10)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@belalhossain22000)
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;" />
@@ -69,7 +69,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3A33D1?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3A33D1?style=for-the-badge&logo=git&logoColor=F05032)
@@ -85,7 +85,8 @@
 
 [![skymart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=skymart-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/skymart-client)
 [![agency-websiete](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=agency-websie&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/agency-websie)
-[![bangla-mart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=agency-websie&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/bangla-mart-client)
+[![bangla-mart-client](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=bangla-mart-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/bangla-mart-client)
+[![CPNFT](https://github-readme-stats.vercel.app/api/pin/?username=belalhossain22000&repo=CPNFT&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/belalhossain22000/CPNFT)
 
 
 
