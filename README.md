@@ -64,12 +64,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React-Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=react-bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-5849be?style=for-the-badge&logo=firebase&logoColor=#ffca28)
-
-## Comfortable
 ![REST API](https://img.shields.io/badge/REST_API-00BCD4?style=for-the-badge&logo=api&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-007ACC?style=for-the-badge&logo=context-api&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+## Comfortable
 ![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=tanstack-query&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
