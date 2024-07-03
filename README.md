@@ -8,7 +8,7 @@
    <img src="https://raw.githubusercontent.com/belalhossain22000/belalhossain22000/main/github-cover.png" />
 </h1>
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;++I'm+Web+Developer+✌️;" />
 </h1>
 
 <p align="center"> 
