@@ -11,12 +11,8 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;++I'm+Web+Developer+✌️;" />
 </h1>
 
-<p align="center"> 
-   <samp>    
-      「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
-      <br>
-      <br>
-   </samp>
+<p align="right"> 
+   Reach me out
 </p>
 
 <p align="center">
