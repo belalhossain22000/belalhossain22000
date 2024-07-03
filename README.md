@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@belalhossain22000)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;" />
+   <img src="https://drive.google.com/file/d/1hfR9w030akclhYwxJzB0-ou66V_bav-s/view?usp=sharing" />
 </h1>
 
 <p align="center"> 
@@ -29,9 +29,7 @@
    <a href="https://discord.com/channels/belalhossain22000" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="belal"/>
    </a>
-<!--    <a href="https://dev.to/belal10" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="belal" />
-   </a> -->
+
    <a href="https://twitter.com/Belalhossain918" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
@@ -49,8 +47,7 @@
 </p>
 
 <br/>
-<br/>
-<br/>
+
 
 <h1>Use To Code</h1>
 
