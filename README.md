@@ -13,7 +13,7 @@
 
 <h1> Reach me out</h1>
 
-<p align="center">
+<p align="left">
    <a href="https://www.facebook.com/belalhossain22000" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="belal"  />
    </a>
