@@ -42,11 +42,9 @@
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
    📧 &emsp; Reach me anytime: belalhossain22000@gmail.com<br/><br/>
 </p>
-
 <br/>
 
-
-<h1>Use To Code</h1>
+<h1>Technologies that I know</h1>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
