@@ -11,9 +11,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Belal+Hossain+✌️;++I'm+Web+Developer+✌️;" />
 </h1>
 
-<p align="right"> 
-   Reach me out
-</p>
+<h1Reach me out</h1>
 
 <p align="center">
    <a href="https://www.facebook.com/belalhossain22000" target="_blank">
