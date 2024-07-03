@@ -44,7 +44,6 @@
 </p>
 <br/>
 
-<h1>Technologies that I know</h1>
 
 # Technologies that I Know
 
