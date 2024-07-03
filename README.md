@@ -74,8 +74,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-5849be?style=for-the-badge&logo=firebase&logoColor=#ffca28)
 <br/>
 
-<h1>Current Stats</h1>
-
 <p align="left">
    <a 
       href="https://github.com/belalhossain22000?tab=repositories" 
@@ -87,6 +85,8 @@
          />
    </a>
 </p>
+
+<h1>Current Stats</h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
