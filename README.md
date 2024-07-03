@@ -74,6 +74,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-5849be?style=for-the-badge&logo=firebase&logoColor=#ffca28)
 <br/>
 
+<h1>Current Stats</h1>
 
 <p align="left">
    <a 
